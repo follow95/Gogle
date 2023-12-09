@@ -1,0 +1,260 @@
+.aa {
+    font-size:20px;
+    font-family:times new roman;
+    color:blue;
+    position: absolute;
+    top:30px;
+    left:145px;
+}
+.ab {
+    font-size:20px;
+    font-family:times new roman;
+    color:red;
+    position: absolute;
+    top:30px;
+    left:160px;
+}
+.ac {
+    font-size:20px;
+    font-family:times new roman;
+    color:yellow;
+    position: absolute;
+    top:30px;
+    left:173px;
+}
+.ad {
+    font-size:20px;
+    font-family:times new roman;
+    color:blue;
+    position: absolute;
+    top:30px;
+    left:185px;
+}
+.ae {
+    font-size:20px;
+    font-family:times new roman; 
+    color:green;
+    position: absolute;
+    top:30px;
+    left:197px;
+}
+.af {
+    font-size:20px;
+    font-family:times new roman;
+    color:red;
+    position: absolute;
+    top:30px;
+    left:202px;
+}
+.ag {
+    font-size:25px;
+    position: relative;
+    top:-20px;
+}
+.ah {
+    font-size:18px;
+    font-family:circle;
+    position:relative;
+}
+.aj {
+    padding:0px;
+    border:2px  solid #2b96ff;
+    border-radius:4px;
+    outline-color:#2b96ff;
+    height:55px;
+    width:320px;
+    position:relative;
+    font-family:arial;
+    font-size:15px;
+}
+.ak {
+    background-color:white;
+    height:15px;
+    width:88px;
+    position: absolute;
+    top:175px;
+    left:27px;
+}
+.al {
+    color:#006cffc6;
+    font-size:12px; 
+    position:relative;
+    top:-3px;
+}
+.btn {
+    color:#158cff;
+    font-weight:bold;
+    font-size:15px;
+    background-color: white;
+    position: absolute;
+    Left:19px;
+    top:10px;
+}
+.an {
+    color:#575757;
+    font-size:15px;
+    position: absolute;
+    left:19px;
+}
+.ao {
+    color:#575757;
+    font-size:15px;
+    position: absolute;
+    left:19px;
+}
+.btn_2 {
+    color:#158cff;
+    font-weight:bold;
+    font-size:14px;
+    background-color: white;
+    position: absolute;
+    Left:140px;
+}
+.ap {
+    color:#158cff;
+    font-size:15px;
+    background-color: white;
+    position: absolute;
+    Left:19px;
+}
+.aq {
+    background-color:#1538ffbd;
+    height:35px;
+    width:70px;
+    border-radius:4px;
+    position: absolute;
+    right:25px;
+    top:390px;
+    border:0px white;
+}
+.ar {
+    position: relative;
+    font-size:13px;
+    color:white;
+}
+.as {
+    background-color:white;
+    height:0px;
+    width:170px;
+    border-radius:4px;
+    position: absolute;
+    left:-2px;
+    border:0px white;
+}
+.at {
+    background-color:white;
+    height:0px;
+    width:250px;
+    border-radius:4px;
+    position: absolute;
+    left:1px;
+    border:0px white;
+}
+.au {
+    background-color: white;
+    height:0px;
+    width:250px;
+    border-radius:4px;
+    position: absolute;
+    left:1px;
+    border:0px white;
+}
+.av {
+    border:2px white;
+    height:25px;
+    width:230px;
+    position: absolute;
+    left:19px;
+    outline-color:white;
+    background-color:white;
+}
+.bb {
+    font-size:12px;
+    color:#838383;
+    bottom:30px;
+    left:20px;
+}
+.ba {
+    background-color:white;
+    height:2px;
+    width:50px;
+    position: absolute;
+    border:0px white;
+    left:12px;
+}
+.bd {
+    font-size:12px;
+    color:#838383;
+    bottom:30px;
+    left:87px;
+}
+.bc {
+    background-color:white;
+    height:2px;
+    width:50px;
+    position: absolute;
+    border:0px white;
+    left:79px;
+}
+.bf {
+    font-size:12px;
+    color:#838383;
+    bottom:30px;
+    left:154px;
+}
+.be {
+    background-color:white;
+    height:2px;
+    width:50px;
+    position: absolute;
+    border:0px white;
+    left:146px;
+}
+.bg {
+    position: relative;
+    height:25px;
+    width:80px;
+    top:-30px;
+}
+.da {
+    font-size:150px;
+    position: relative;
+    top:60px;
+}
+.db {
+    font-size:30px;
+    position:relative;
+    top:160px;
+}
+.de {
+    padding:0px;
+    border:2px  solid #2b96ff;
+    border-radius:4px;
+    outline-color:#2b96ff;
+    height:55px;
+    width:320px;
+    position:relative;
+    font-family:arial;
+    font-size:15px;
+    top:20px;
+}
+.df {
+    background-color:white;
+    height:15px;
+    width:60px;
+    position: absolute;
+    top:255px;
+    left:27px;
+}
+.dg {
+    color:#006cffc6;
+    font-size:12px; 
+    position:relative;
+    top:-3px;
+}
+.iop {
+    position: absolute;
+    top:35px;
+    left:35px;
+    color:white;
+}
